@@ -66,7 +66,7 @@ To successfully run the Python tool for splitting PDF pages into left and right 
 1. **Install Packages**:
    - With the virtual environment activated, run the following command to install the required packages:
      ```bash
-     pip install -r requirements.txt
+     pip install PyPDF2
      ```
 
 ## Step 5: Clone the Repository
