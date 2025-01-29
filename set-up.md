@@ -48,7 +48,7 @@ To successfully run the Python tool for splitting PDF pages into left and right 
 1. **Create a Virtual Environment**:
    - In the command line, navigate to the cloned repository directory and run:
      ```bash
-     python -m venv venv
+     python3 -m venv venv
      ```
 
 2. **Activate the Virtual Environment**:
@@ -69,20 +69,12 @@ To successfully run the Python tool for splitting PDF pages into left and right 
      pip install PyPDF2
      ```
 
-## Step 5: Clone the Repository
-
-1. **Clone the Repository**:
-   - Navigate to the directory where you want to save the project and run:
-     ```bash
-     git clone https://github.com/Scholarly-Projects/book_splitter.git
-     ```
-
-## Step 6: Place Your PDF Files
+## Step 5: Place Your PDF Files
 
 1. **Place Your PDF Files**:
    - Place the PDF files you want to split into the `A` folder within the cloned repository.
 
-## Step 7: Run the Python Script
+## Step 6: Run the Python Script
 
 1. **Run the Python Script**:
    - In the command line, navigate to the cloned repository directory and run:
